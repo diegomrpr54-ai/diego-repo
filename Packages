@@ -1,0 +1,11 @@
+Package: diego
+Version: 1.0
+Architecture: all
+Maintainer: Diego
+Filename: ./pkg-diego.deb
+Size: 1160
+MD5sum: 16333e4422300ddaa173fdcb62efe7ef
+SHA1: 2ad11711bf30f619106620bbaaab2eb76b9adbfa
+SHA256: 09653ece2d2138a84d16cff7462312250be344789a1f91a1e9e8fc736331b313
+Description: The Diego Control Panel and Pixel launcher.
+

@@ -1,24 +1,11 @@
-Package: diego
-Architecture: all
+Package: diegoos
 Version: 1.0
+Architecture: aarch64
 Maintainer: Diego
-Filename: ./pkg-DiegoOS.deb
+Filename: pool/main/pkg-DiegoOS.deb
 Size: 1160
 MD5sum: 16333e4422300ddaa173fdcb62efe7ef
 SHA1: 2ad11711bf30f619106620bbaaab2eb76b9adbfa
 SHA256: 09653ece2d2138a84d16cff7462312250be344789a1f91a1e9e8fc736331b313
 SHA512: 9381062a30bc8ddd9373f0979ad6e01275a234accfbab8f0b28cd8adf5cb1d36e0c13edd402d9f8b4268fd43a48d9467b134f64976fb1f418f85229a5ac19085
-Description: The Diego Control Panel and Pixel launcher.
-
-Package: diego
-Architecture: all
-Version: 1.0
-Maintainer: Diego
-Filename: ./pkg-diego.deb
-Size: 1160
-MD5sum: 16333e4422300ddaa173fdcb62efe7ef
-SHA1: 2ad11711bf30f619106620bbaaab2eb76b9adbfa
-SHA256: 09653ece2d2138a84d16cff7462312250be344789a1f91a1e9e8fc736331b313
-SHA512: 9381062a30bc8ddd9373f0979ad6e01275a234accfbab8f0b28cd8adf5cb1d36e0c13edd402d9f8b4268fd43a48d9467b134f64976fb1f418f85229a5ac19085
-Description: The Diego Control Panel and Pixel launcher.
-
+Description: The Diego Control Panel.

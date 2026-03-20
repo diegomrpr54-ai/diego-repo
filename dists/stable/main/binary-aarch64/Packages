@@ -1,0 +1,11 @@
+Package: diegoos
+Version: 1.0
+Architecture: aarch64
+Maintainer: Diego
+Filename: pool/main/pkg-DiegoOS.deb
+Size: 5208
+MD5sum: 5bbe215d8fdb0d7eeb60ce41734a1529
+SHA1: eeae3600445c93fee751a70705301b6a78e8f2da
+SHA256: b93cbce4885de55ed452adfbdadd6893f6ecd4541c43c36915daa9aeb220ed54
+SHA512: 58c113b0d820229a99c4fbdea843948576ffc99e05ae3ca980246f687a0adbd839bed761a89be6c7f0f0723ac0d390695fb7a5d7eeadd68013ed4d1f7f93bbd2
+Description: The official DiegoOS command suite for Termux.
